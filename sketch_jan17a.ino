@@ -1,3 +1,6 @@
+//Hejhejhej
+
+
 #include <Servo.h>  // Inkludera Servo biblioteket
 
 const int button = 1;        // knappen är ansluten till pin 1 på Arduino-brädet
